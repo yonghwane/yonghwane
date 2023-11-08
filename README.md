@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yonghwane&layout=compact)
- [![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/yonghwane)
+![LeetCode Stats](https://leetcard.jacoblin.cool/yonghwane?theme=nord&font=Solway&ext=heatmap)
