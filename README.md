@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yonghwane135)](https://solved.ac/ytlsgnstjq)
  ![mazandi profile](http://mazandi.herokuapp.com/api?handle=yonghwane135&theme=warm)
- [![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/JacobLinCool)
+ [![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/yonghwane)
